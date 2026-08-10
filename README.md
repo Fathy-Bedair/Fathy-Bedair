@@ -14,7 +14,7 @@ Welcome! I'm a fresh graduate from the Faculty of Computers and Information. I s
 * 🔄 *Currently Exploring:* Advanced ASP.NET Core MVC concepts and software design patterns like the Repository Pattern.
 * 🛠️ *Tools & Technologies:* HTML, CSS, JavaScript, and .NET.
 * 💻 *Featured Work:* Developed "Championship Control System," a comprehensive sports tournament management system utilizing ASP.NET Core and SQL Server.
-* 📄 *My CV:* [View here](https://drive.google.com/drive/folders/1wostzg9AKA6F6YX1icfRw5YAtxbXhn8Y?usp=drive_link)
+* 📄 *My CV:* [View here](https://drive.google.com/file/d/1TSwWARlMh-jawsSuuDZIOQw2EBtc0oCK/view?usp=drive_link)
 * 📢 *Reach me at:* **[fathysamy1234@gmail.com]** 
 
 ---
