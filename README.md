@@ -58,15 +58,13 @@ Welcome! I'm a fresh graduate from the Faculty of Computers and Information. I s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- شيل كلمة YOUR_USERNAME وحط اليوزر بتاعك في جيت هاب -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Fathy-Bedair&show_icons=true&theme=dark" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fathy-Bedair&layout=compact&theme=dark" alt="Top Languages" height="175" />
 </p>
 
 --- 
 <h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
-  <!-- شيل كلمة YOUR_USERNAME وحط اليوزر بتاعك في جيت هاب برضه هنا -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Fathy-Bedair&style=for-the-badge" alt="Profile Views" />
 </p>
